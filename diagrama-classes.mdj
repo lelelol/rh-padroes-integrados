@@ -1,0 +1,2374 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAGP000000000001",
+	"name": "rh-padroes-integrados",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAGP000000000002",
+			"_parent": {
+				"$ref": "AAAAAAGP000000000001"
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAGP000000000003",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "Diagrama de Classes",
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP000000000005",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP000000000004"
+							},
+							"left": 482,
+							"top": 20,
+							"width": 373,
+							"height": 124
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP000000000007",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP000000000006"
+							},
+							"left": 2560,
+							"top": 500,
+							"width": 310,
+							"height": 204
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP000000000009",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"left": 20,
+							"top": 20,
+							"width": 422,
+							"height": 428
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP00000000000B",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP00000000000A"
+							},
+							"left": 20,
+							"top": 680,
+							"width": 226,
+							"height": 108
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP00000000000D",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP00000000000C"
+							},
+							"left": 20,
+							"top": 520,
+							"width": 226,
+							"height": 92
+						},
+						{
+							"_type": "UMLInterfaceView",
+							"_id": "AAAAAAGP00000000000F",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP00000000000E"
+							},
+							"left": 2650,
+							"top": 20,
+							"width": 163,
+							"height": 124,
+							"stereotypeDisplay": "label"
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP000000000011",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP000000000010"
+							},
+							"left": 520,
+							"top": 520,
+							"width": 352,
+							"height": 92
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP000000000013",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP000000000012"
+							},
+							"left": 912,
+							"top": 520,
+							"width": 352,
+							"height": 92
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP000000000015",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP000000000014"
+							},
+							"left": 2088,
+							"top": 520,
+							"width": 352,
+							"height": 92
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP000000000017",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP000000000016"
+							},
+							"left": 1696,
+							"top": 520,
+							"width": 352,
+							"height": 92
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP000000000019",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP000000000018"
+							},
+							"left": 1304,
+							"top": 520,
+							"width": 352,
+							"height": 92
+						},
+						{
+							"_type": "UMLInterfaceView",
+							"_id": "AAAAAAGP00000000001B",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP00000000001A"
+							},
+							"left": 895,
+							"top": 20,
+							"width": 352,
+							"height": 108,
+							"stereotypeDisplay": "label"
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP00000000001D",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP00000000001C"
+							},
+							"left": 2300,
+							"top": 260,
+							"width": 163,
+							"height": 108
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP00000000001F",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP00000000001E"
+							},
+							"left": 2909,
+							"top": 260,
+							"width": 163,
+							"height": 108
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP000000000021",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP000000000020"
+							},
+							"left": 2706,
+							"top": 260,
+							"width": 163,
+							"height": 108
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP000000000023",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP000000000022"
+							},
+							"left": 2300,
+							"top": 20,
+							"width": 310,
+							"height": 92
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGP000000000025",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP000000000024"
+							},
+							"left": 2503,
+							"top": 260,
+							"width": 163,
+							"height": 108
+						},
+						{
+							"_type": "UMLGeneralizationView",
+							"_id": "AAAAAAGP0000000000A0",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP00000000009F"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP00000000000B"
+							},
+							"head": {
+								"$ref": "AAAAAAGP000000000009"
+							},
+							"lineStyle": 1,
+							"points": "133:680;133:564;231:564;231:448"
+						},
+						{
+							"_type": "UMLGeneralizationView",
+							"_id": "AAAAAAGP0000000000A2",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000A1"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP00000000000D"
+							},
+							"head": {
+								"$ref": "AAAAAAGP000000000009"
+							},
+							"lineStyle": 1,
+							"points": "133:520;133:484;231:484;231:448"
+						},
+						{
+							"_type": "UMLInterfaceRealizationView",
+							"_id": "AAAAAAGP0000000000A4",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000A3"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP000000000011"
+							},
+							"head": {
+								"$ref": "AAAAAAGP00000000001B"
+							},
+							"lineStyle": 1,
+							"points": "696:520;696:324;1071:324;1071:128"
+						},
+						{
+							"_type": "UMLInterfaceRealizationView",
+							"_id": "AAAAAAGP0000000000A6",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000A5"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP000000000013"
+							},
+							"head": {
+								"$ref": "AAAAAAGP00000000001B"
+							},
+							"lineStyle": 1,
+							"points": "1088:520;1088:324;1071:324;1071:128"
+						},
+						{
+							"_type": "UMLInterfaceRealizationView",
+							"_id": "AAAAAAGP0000000000A8",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000A7"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP000000000015"
+							},
+							"head": {
+								"$ref": "AAAAAAGP00000000001B"
+							},
+							"lineStyle": 1,
+							"points": "2264:520;2264:324;1071:324;1071:128"
+						},
+						{
+							"_type": "UMLInterfaceRealizationView",
+							"_id": "AAAAAAGP0000000000AA",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000A9"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP000000000017"
+							},
+							"head": {
+								"$ref": "AAAAAAGP00000000001B"
+							},
+							"lineStyle": 1,
+							"points": "1872:520;1872:324;1071:324;1071:128"
+						},
+						{
+							"_type": "UMLInterfaceRealizationView",
+							"_id": "AAAAAAGP0000000000AC",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000AB"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP000000000019"
+							},
+							"head": {
+								"$ref": "AAAAAAGP00000000001B"
+							},
+							"lineStyle": 1,
+							"points": "1480:520;1480:324;1071:324;1071:128"
+						},
+						{
+							"_type": "UMLInterfaceRealizationView",
+							"_id": "AAAAAAGP0000000000AE",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000AD"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP00000000001D"
+							},
+							"head": {
+								"$ref": "AAAAAAGP00000000000F"
+							},
+							"lineStyle": 1,
+							"points": "2382:260;2382:202;2732:202;2732:144"
+						},
+						{
+							"_type": "UMLInterfaceRealizationView",
+							"_id": "AAAAAAGP0000000000B0",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000AF"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP000000000021"
+							},
+							"head": {
+								"$ref": "AAAAAAGP00000000000F"
+							},
+							"lineStyle": 1,
+							"points": "2788:260;2788:202;2732:202;2732:144"
+						},
+						{
+							"_type": "UMLInterfaceRealizationView",
+							"_id": "AAAAAAGP0000000000B2",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000B1"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP000000000025"
+							},
+							"head": {
+								"$ref": "AAAAAAGP00000000000F"
+							},
+							"lineStyle": 1,
+							"points": "2584:260;2584:202;2732:202;2732:144"
+						},
+						{
+							"_type": "UMLDependencyView",
+							"_id": "AAAAAAGP0000000000B4",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000B3"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP000000000009"
+							},
+							"head": {
+								"$ref": "AAAAAAGP000000000005"
+							},
+							"lineStyle": 0,
+							"points": "442:161;490:144"
+						},
+						{
+							"_type": "UMLDependencyView",
+							"_id": "AAAAAAGP0000000000B6",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000B5"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP000000000005"
+							},
+							"head": {
+								"$ref": "AAAAAAGP00000000001B"
+							},
+							"lineStyle": 0,
+							"points": "855:78;895:77"
+						},
+						{
+							"_type": "UMLDependencyView",
+							"_id": "AAAAAAGP0000000000B8",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000B7"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP000000000023"
+							},
+							"head": {
+								"$ref": "AAAAAAGP00000000000F"
+							},
+							"lineStyle": 0,
+							"points": "2610:75;2650:77"
+						},
+						{
+							"_type": "UMLDependencyView",
+							"_id": "AAAAAAGP0000000000BA",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000B9"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP00000000001D"
+							},
+							"head": {
+								"$ref": "AAAAAAGP000000000007"
+							},
+							"lineStyle": 0,
+							"points": "2444:368;2597:500"
+						},
+						{
+							"_type": "UMLDependencyView",
+							"_id": "AAAAAAGP0000000000BC",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000BB"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP000000000025"
+							},
+							"head": {
+								"$ref": "AAAAAAGP000000000007"
+							},
+							"lineStyle": 0,
+							"points": "2609:368;2669:500"
+						},
+						{
+							"_type": "UMLDependencyView",
+							"_id": "AAAAAAGP0000000000BE",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000BD"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP000000000021"
+							},
+							"head": {
+								"$ref": "AAAAAAGP000000000007"
+							},
+							"lineStyle": 0,
+							"points": "2774:368;2741:500"
+						},
+						{
+							"_type": "UMLDependencyView",
+							"_id": "AAAAAAGP0000000000C0",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000003"
+							},
+							"model": {
+								"$ref": "AAAAAAGP0000000000BF"
+							},
+							"tail": {
+								"$ref": "AAAAAAGP00000000001F"
+							},
+							"head": {
+								"$ref": "AAAAAAGP000000000007"
+							},
+							"lineStyle": 0,
+							"points": "2939:368;2813:500"
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP000000000004",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "CalculadoraSalario",
+					"ownedElements": [
+						{
+							"_type": "UMLDependency",
+							"_id": "AAAAAAGP0000000000B5",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000004"
+							},
+							"source": {
+								"$ref": "AAAAAAGP000000000004"
+							},
+							"target": {
+								"$ref": "AAAAAAGP00000000001A"
+							}
+						}
+					],
+					"attributes": [
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGP000000000026",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000004"
+							},
+							"name": "valor1",
+							"visibility": "private",
+							"type": "float",
+							"isStatic": false
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGP000000000027",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000004"
+							},
+							"name": "valor2",
+							"visibility": "private",
+							"type": "float",
+							"isStatic": false
+						}
+					],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000028",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000004"
+							},
+							"name": "CalculadoraSalario",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000029",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000028"
+									},
+									"name": "valor1",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000002A",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000028"
+									},
+									"name": "valor2",
+									"type": "float",
+									"direction": "in"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000002B",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000004"
+							},
+							"name": "calcular",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000002C",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000002B"
+									},
+									"name": "regra",
+									"type": "RegraSalarial",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000002D",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000002B"
+									},
+									"name": "",
+									"type": "float",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP000000000006",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "ConfiguracaoEmpresa",
+					"ownedElements": [],
+					"attributes": [
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGP00000000002E",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000006"
+							},
+							"name": "instance",
+							"visibility": "private",
+							"type": "ConfiguracaoEmpresa",
+							"isStatic": true
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGP00000000002F",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000006"
+							},
+							"name": "nomeEmpresa",
+							"visibility": "private",
+							"type": "String",
+							"isStatic": false
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGP000000000030",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000006"
+							},
+							"name": "usuarioLogado",
+							"visibility": "private",
+							"type": "String",
+							"isStatic": false
+						}
+					],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000031",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000006"
+							},
+							"name": "ConfiguracaoEmpresa",
+							"visibility": "private",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": []
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000032",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000006"
+							},
+							"name": "getInstance",
+							"visibility": "public",
+							"isStatic": true,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000033",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000032"
+									},
+									"name": "",
+									"type": "ConfiguracaoEmpresa",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000034",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000006"
+							},
+							"name": "getNomeEmpresa",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000035",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000034"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000036",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000006"
+							},
+							"name": "setNomeEmpresa",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000037",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000036"
+									},
+									"name": "nomeEmpresa",
+									"type": "String",
+									"direction": "in"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000038",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000006"
+							},
+							"name": "getUsuarioLogado",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000039",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000038"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000003A",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000006"
+							},
+							"name": "setUsuarioLogado",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000003B",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000003A"
+									},
+									"name": "usuarioLogado",
+									"type": "String",
+									"direction": "in"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP000000000008",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "Funcionario",
+					"ownedElements": [
+						{
+							"_type": "UMLDependency",
+							"_id": "AAAAAAGP0000000000B3",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"source": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"target": {
+								"$ref": "AAAAAAGP000000000004"
+							}
+						}
+					],
+					"attributes": [
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGP00000000003C",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "matricula",
+							"visibility": "private",
+							"type": "int",
+							"isStatic": false
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGP00000000003D",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "nome",
+							"visibility": "protected",
+							"type": "String",
+							"isStatic": false
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGP00000000003E",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "avaliacao1",
+							"visibility": "private",
+							"type": "float",
+							"isStatic": false
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGP00000000003F",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "avaliacao2",
+							"visibility": "private",
+							"type": "float",
+							"isStatic": false
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGP000000000040",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "salario",
+							"visibility": "private",
+							"type": "float",
+							"isStatic": false
+						}
+					],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000041",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "getMatricula",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000042",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000041"
+									},
+									"name": "",
+									"type": "int",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000043",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "setMatricula",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000044",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000043"
+									},
+									"name": "matricula",
+									"type": "int",
+									"direction": "in"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000045",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "getNome",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000046",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000045"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000047",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "setNome",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000048",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000047"
+									},
+									"name": "nome",
+									"type": "String",
+									"direction": "in"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000049",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "getAvaliacao1",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000004A",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000049"
+									},
+									"name": "",
+									"type": "float",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000004B",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "setAvaliacao1",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000004C",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000004B"
+									},
+									"name": "avaliacao1",
+									"type": "float",
+									"direction": "in"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000004D",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "getAvaliacao2",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000004E",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000004D"
+									},
+									"name": "",
+									"type": "float",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000004F",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "setAvaliacao2",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000050",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000004F"
+									},
+									"name": "avaliacao2",
+									"type": "float",
+									"direction": "in"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000051",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "calcularMediaAvaliacoes",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000052",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000051"
+									},
+									"name": "",
+									"type": "float",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000053",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "verificarPromocao",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": true,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000054",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000053"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000055",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "getTipo",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000056",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000055"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000057",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "getInfo",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000058",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000057"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000059",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "getSalario",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000005A",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000059"
+									},
+									"name": "",
+									"type": "float",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000005B",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "adicionarBonus",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000005C",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000005B"
+									},
+									"name": "salario",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000005D",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000005B"
+									},
+									"name": "bonus",
+									"type": "float",
+									"direction": "in"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000005E",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "aplicarDesconto",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000005F",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000005E"
+									},
+									"name": "salario",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000060",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000005E"
+									},
+									"name": "desconto",
+									"type": "float",
+									"direction": "in"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000061",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "parcelarSalario",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000062",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000061"
+									},
+									"name": "salario",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000063",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000061"
+									},
+									"name": "parcelas",
+									"type": "float",
+									"direction": "in"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000064",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "aplicarReajuste",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000065",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000064"
+									},
+									"name": "salario",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000066",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000064"
+									},
+									"name": "indice",
+									"type": "float",
+									"direction": "in"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000067",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000008"
+							},
+							"name": "calcularMediaSalarios",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000068",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000067"
+									},
+									"name": "salario1",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000069",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000067"
+									},
+									"name": "salario2",
+									"type": "float",
+									"direction": "in"
+								}
+							]
+						}
+					],
+					"isAbstract": true
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP00000000000A",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "FuncionarioGerente",
+					"ownedElements": [
+						{
+							"_type": "UMLGeneralization",
+							"_id": "AAAAAAGP00000000009F",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000000A"
+							},
+							"source": {
+								"$ref": "AAAAAAGP00000000000A"
+							},
+							"target": {
+								"$ref": "AAAAAAGP000000000008"
+							}
+						}
+					],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000006A",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000000A"
+							},
+							"name": "verificarPromocao",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000006B",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000006A"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000006C",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000000A"
+							},
+							"name": "getTipo",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000006D",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000006C"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP00000000000C",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "FuncionarioOperacional",
+					"ownedElements": [
+						{
+							"_type": "UMLGeneralization",
+							"_id": "AAAAAAGP0000000000A1",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000000C"
+							},
+							"source": {
+								"$ref": "AAAAAAGP00000000000C"
+							},
+							"target": {
+								"$ref": "AAAAAAGP000000000008"
+							}
+						}
+					],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000006E",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000000C"
+							},
+							"name": "verificarPromocao",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000006F",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000006E"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLInterface",
+					"_id": "AAAAAAGP00000000000E",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "IServico",
+					"ownedElements": [],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000070",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000000E"
+							},
+							"name": "executar",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": true,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000071",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000070"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000072",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000000E"
+							},
+							"name": "cancelar",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": true,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000073",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000072"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP000000000010",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "RegraBonus",
+					"ownedElements": [
+						{
+							"_type": "UMLInterfaceRealization",
+							"_id": "AAAAAAGP0000000000A3",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000010"
+							},
+							"source": {
+								"$ref": "AAAAAAGP000000000010"
+							},
+							"target": {
+								"$ref": "AAAAAAGP00000000001A"
+							}
+						}
+					],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000074",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000010"
+							},
+							"name": "calcular",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000075",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000074"
+									},
+									"name": "valor1",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000076",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000074"
+									},
+									"name": "valor2",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000077",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000074"
+									},
+									"name": "",
+									"type": "float",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP000000000012",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "RegraDesconto",
+					"ownedElements": [
+						{
+							"_type": "UMLInterfaceRealization",
+							"_id": "AAAAAAGP0000000000A5",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000012"
+							},
+							"source": {
+								"$ref": "AAAAAAGP000000000012"
+							},
+							"target": {
+								"$ref": "AAAAAAGP00000000001A"
+							}
+						}
+					],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000078",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000012"
+							},
+							"name": "calcular",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000079",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000078"
+									},
+									"name": "valor1",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000007A",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000078"
+									},
+									"name": "valor2",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000007B",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000078"
+									},
+									"name": "",
+									"type": "float",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP000000000014",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "RegraMedia",
+					"ownedElements": [
+						{
+							"_type": "UMLInterfaceRealization",
+							"_id": "AAAAAAGP0000000000A7",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000014"
+							},
+							"source": {
+								"$ref": "AAAAAAGP000000000014"
+							},
+							"target": {
+								"$ref": "AAAAAAGP00000000001A"
+							}
+						}
+					],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000007C",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000014"
+							},
+							"name": "calcular",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000007D",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000007C"
+									},
+									"name": "valor1",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000007E",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000007C"
+									},
+									"name": "valor2",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000007F",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000007C"
+									},
+									"name": "",
+									"type": "float",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP000000000016",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "RegraParcelamento",
+					"ownedElements": [
+						{
+							"_type": "UMLInterfaceRealization",
+							"_id": "AAAAAAGP0000000000A9",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000016"
+							},
+							"source": {
+								"$ref": "AAAAAAGP000000000016"
+							},
+							"target": {
+								"$ref": "AAAAAAGP00000000001A"
+							}
+						}
+					],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000080",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000016"
+							},
+							"name": "calcular",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000081",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000080"
+									},
+									"name": "valor1",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000082",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000080"
+									},
+									"name": "valor2",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000083",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000080"
+									},
+									"name": "",
+									"type": "float",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP000000000018",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "RegraReajuste",
+					"ownedElements": [
+						{
+							"_type": "UMLInterfaceRealization",
+							"_id": "AAAAAAGP0000000000AB",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000018"
+							},
+							"source": {
+								"$ref": "AAAAAAGP000000000018"
+							},
+							"target": {
+								"$ref": "AAAAAAGP00000000001A"
+							}
+						}
+					],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000084",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000018"
+							},
+							"name": "calcular",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000085",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000084"
+									},
+									"name": "valor1",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000086",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000084"
+									},
+									"name": "valor2",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000087",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000084"
+									},
+									"name": "",
+									"type": "float",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLInterface",
+					"_id": "AAAAAAGP00000000001A",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "RegraSalarial",
+					"ownedElements": [],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000088",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000001A"
+							},
+							"name": "calcular",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": true,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000089",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000088"
+									},
+									"name": "valor1",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000008A",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000088"
+									},
+									"name": "valor2",
+									"type": "float",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000008B",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000088"
+									},
+									"name": "",
+									"type": "float",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP00000000001C",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "ServicoAdmissao",
+					"ownedElements": [
+						{
+							"_type": "UMLInterfaceRealization",
+							"_id": "AAAAAAGP0000000000AD",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000001C"
+							},
+							"source": {
+								"$ref": "AAAAAAGP00000000001C"
+							},
+							"target": {
+								"$ref": "AAAAAAGP00000000000E"
+							}
+						},
+						{
+							"_type": "UMLDependency",
+							"_id": "AAAAAAGP0000000000B9",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000001C"
+							},
+							"source": {
+								"$ref": "AAAAAAGP00000000001C"
+							},
+							"target": {
+								"$ref": "AAAAAAGP000000000006"
+							}
+						}
+					],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000008C",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000001C"
+							},
+							"name": "executar",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000008D",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000008C"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000008E",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000001C"
+							},
+							"name": "cancelar",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000008F",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000008E"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP00000000001E",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "ServicoAfastamento",
+					"ownedElements": [
+						{
+							"_type": "UMLDependency",
+							"_id": "AAAAAAGP0000000000BF",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000001E"
+							},
+							"source": {
+								"$ref": "AAAAAAGP00000000001E"
+							},
+							"target": {
+								"$ref": "AAAAAAGP000000000006"
+							}
+						}
+					],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000090",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000001E"
+							},
+							"name": "executar",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000091",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000090"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000092",
+							"_parent": {
+								"$ref": "AAAAAAGP00000000001E"
+							},
+							"name": "cancelar",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000093",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000092"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP000000000020",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "ServicoDesligamento",
+					"ownedElements": [
+						{
+							"_type": "UMLInterfaceRealization",
+							"_id": "AAAAAAGP0000000000AF",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000020"
+							},
+							"source": {
+								"$ref": "AAAAAAGP000000000020"
+							},
+							"target": {
+								"$ref": "AAAAAAGP00000000000E"
+							}
+						},
+						{
+							"_type": "UMLDependency",
+							"_id": "AAAAAAGP0000000000BD",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000020"
+							},
+							"source": {
+								"$ref": "AAAAAAGP000000000020"
+							},
+							"target": {
+								"$ref": "AAAAAAGP000000000006"
+							}
+						}
+					],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000094",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000020"
+							},
+							"name": "executar",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000095",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000094"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000096",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000020"
+							},
+							"name": "cancelar",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000097",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000096"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP000000000022",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "ServicoFactory",
+					"ownedElements": [
+						{
+							"_type": "UMLDependency",
+							"_id": "AAAAAAGP0000000000B7",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000022"
+							},
+							"source": {
+								"$ref": "AAAAAAGP000000000022"
+							},
+							"target": {
+								"$ref": "AAAAAAGP00000000000E"
+							}
+						}
+					],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP000000000098",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000022"
+							},
+							"name": "obterServico",
+							"visibility": "public",
+							"isStatic": true,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP000000000099",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000098"
+									},
+									"name": "servico",
+									"type": "String",
+									"direction": "in"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000009A",
+									"_parent": {
+										"$ref": "AAAAAAGP000000000098"
+									},
+									"name": "",
+									"type": "IServico",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGP000000000024",
+					"_parent": {
+						"$ref": "AAAAAAGP000000000002"
+					},
+					"name": "ServicoFerias",
+					"ownedElements": [
+						{
+							"_type": "UMLInterfaceRealization",
+							"_id": "AAAAAAGP0000000000B1",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000024"
+							},
+							"source": {
+								"$ref": "AAAAAAGP000000000024"
+							},
+							"target": {
+								"$ref": "AAAAAAGP00000000000E"
+							}
+						},
+						{
+							"_type": "UMLDependency",
+							"_id": "AAAAAAGP0000000000BB",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000024"
+							},
+							"source": {
+								"$ref": "AAAAAAGP000000000024"
+							},
+							"target": {
+								"$ref": "AAAAAAGP000000000006"
+							}
+						}
+					],
+					"attributes": [],
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000009B",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000024"
+							},
+							"name": "executar",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000009C",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000009B"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGP00000000009D",
+							"_parent": {
+								"$ref": "AAAAAAGP000000000024"
+							},
+							"name": "cancelar",
+							"visibility": "public",
+							"isStatic": false,
+							"isAbstract": false,
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAGP00000000009E",
+									"_parent": {
+										"$ref": "AAAAAAGP00000000009D"
+									},
+									"name": "",
+									"type": "String",
+									"direction": "return"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
